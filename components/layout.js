@@ -6,7 +6,7 @@ export default function Layout({ children }) {
       <header className='sticky inset-x-0 top-0 bg-grey-900 pt-4 pb-2'>
         <div className='grid grid-cols-5 mx-auto justify-center'>
           <div></div>
-          <a href='/' className='pt-10 justify-self-end'>🏡</a>
+          <Link href='/'><a className='pt-10 justify-self-end'>🏡</a></Link>
           <div>
             <div className='mx-auto text-yellow-200 font-mono text-3xl text-center'> &#47;* no comment &#47;* </div>
             <div className='mx-auto text-yellow-300 font-mono text-l text-center py-2'> The Loosely Logical Linux Library </div>
