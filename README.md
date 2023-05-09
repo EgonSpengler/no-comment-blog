@@ -1,4 +1,4 @@
-This is a Markdown powered Next.js blog!
+This is a Markdown powered Next.js blog!  Live version at https://no-comment-blog.vercel.app/
 
 ## Getting Started
 
